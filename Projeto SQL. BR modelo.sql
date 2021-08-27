@@ -44,15 +44,14 @@ select * from leciona
 
 
 insert into aluno values (1, 'Felipe Tsubota', 'M', 'Pinheirinho', '20021231')
-insert into aluno values (2, 'Elias Fonseca', 'M', 'Cap„o Raso', '19990303')
+insert into aluno values (2, 'Elias Fonseca', 'M', 'Cap√£o Raso', '19990303')
 
 insert into disciplina values (1, 'Banco de Dados I', 80, 'Alexandre Bento', 'ADS') 
 insert into disciplina values (2, 'Engenharia de Software I', 80, 'Silvio Bortoloto', 'ADS')
 
-insert into professor values (22, 'Alexandre Bento', 'M', 'Port„o', '19800713')
+insert into professor values (22, 'Alexandre Bento', 'M', 'Port√£o', '19800713')
 insert into professor values (11, 'Silvio Bortoloto', 'M', 'Batel', '19551220')
 
 insert into tem values (1,1)
 insert into tem values (2,2)
 insert into tem values (2,3)
-
